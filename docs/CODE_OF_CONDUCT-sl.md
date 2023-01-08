@@ -1,5 +1,5 @@
 # Kodeks ravnanja avtorjev in udeležencev
-
+#do
 Kot avtorji in vzdrževalci tega projekta ter v interesu s spodbujanjem odprte 
 in gostoljubne skupnosti se zavezujemo, da bomo spoštovali vse ljudi, ki prispevajo
 s poročanjem o težavah, objavljanjem zahtev za nove funkcionalnosti, posodabljanjem
